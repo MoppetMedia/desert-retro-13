@@ -106,7 +106,7 @@ h1 {
 
 /* Home Page */
 .hero {
-  background-image: url('./Images/Antelope\ Canyon\ Arizona.png'); /* Replace with a desert photo */
+  background-image: url('./images/Antelope\ Canyon\ Arizona.png'); /* Replace with a desert photo */
   background-size: cover;
   background-position: center;
   height: 100vh;
